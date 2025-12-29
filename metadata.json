@@ -1,0 +1,9 @@
+{
+  "name": "Copy of 24وكالة الشويع - المحاسب الذكي",
+  "description": "نظام محاسبي متطور لوكالات القات مع ميزة المسح الذكي للسندات والذكاء الاصطناعي والمطالبات الصوتية.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
